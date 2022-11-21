@@ -1,9 +1,4 @@
-/*
- * paging_helpers.c
- *
- *  Created on: Sep 30, 2022
- *      Author: HP
- */
+
 #include "memory_manager.h"
 
 /*[2.1] PAGE TABLE ENTRIES MANIPULATION */
